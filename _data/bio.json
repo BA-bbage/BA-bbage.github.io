@@ -2,10 +2,10 @@
   "basics": {
     "name": "Brian Raymund Abad",
     "label": "Student",
-    "picture": "https://BA-bbage.github.io/images/Profile_Pic_Face.jpg",
+    "picture": "https://ba-bbage.github.io//images/Profile_Pic_Face.jpg",
     "email": "babad8@hawaii.edu",
     "phone": "",
-    "website": "https://BA-bbage.github.io",
+    "website": "https://ba-bbage.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "babad0310",
         "url": "http://linkedin.com/in/brian-raymund-abad"
       }
     ]
