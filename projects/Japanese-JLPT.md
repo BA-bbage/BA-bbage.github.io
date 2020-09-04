@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/JLPT.png
+image: images/JLPT.jpg
 title: Japanese - JLPT
 permalink: projects/japanese-jlpt
 # All dates must be YYYY-MM-DD format!
