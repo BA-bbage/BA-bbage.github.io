@@ -1,28 +1,24 @@
 ---
 layout: project
 type: project
-image: images/jrpg.png
-title: Unity Games - First JRPG
-permalink: projects/unity-games-first-jrpg
+image: images/JLPT.png
+title: Japanese - JLPT
+permalink: projects/japanese-jlpt
 # All dates must be YYYY-MM-DD format!
-date: 2020-08-20
+date: 2020-01-05
 labels:
-  - Unity
-  - C#
-  - JRPG
-  - Game_Development
-summary: Developing a simple JRPG using the Unity Engine.
+  - Japanese
+  - Language
+summary: Studying the Japanese language and preparing for the JLPT.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/jrpg.png">
+<img class="ui medium right floated rounded image" src="../images/japanese_kanji.png">
 
-Unity is a third-party game engine created by Unity Technologies and is considered well known across the gaming community alongside other popular game development software.
-It allows game developers to create a variety of games ranging from 2D/3D games to simulations and can support development across multiple platforms, such as PC, console, and mobile. 
+The Japanese culture is one that struck my interest for a long time. It lasted for many years since middle school, from reading traditional history and folklore to watching and listening to different medias of pop-culture. In my opinion, however, I felt the experience can be the greatest if I learned one thing: the language.
 
-For this project, I will be utilizing Unity for the first time to create a very simple JRPG. Throughout the development process,
-I will learn the basics of Unity in a 2D-game perspective and learn the mechanics of how a JRPG works, which includes a battle system, entity (player/enemy) data, item management, and story/events.
+Since December 2019, I found the will to push myself towards the endeavor of learning the Japanese language, which is considered one of the toughest languages to learn due to its reading and writing styles. This will was driven with the desire to not only submerse myself with the culture, but also further prove my academic worth for learning such a difficult language. Since making this goal, I have obtained study materials, such as textbooks and podcasts, to learn from.
 
-I hope by finishing this project, I will be able to gain enough experience to tackle a more ambitious RPG project in the future, a project I consider a "life goal".
+I planned on taking the JLPT (Japanese Learning Proficiency Test) for the first time in Dececmber 2020 to examine my progress with the language. The level of proficiency measured by the exam comes in 5 steps from less to most proficient: N5, N4, N3, N2, and N1. For a beginner's goal, I hope to achieve N4 proficiency. 
 
 Source: NA
 
