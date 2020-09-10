@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/jrpg.png
+image: images/jrpg-states-and-transistions2.png
 title: Unity Games - First JRPG
 permalink: projects/unity-games-first-jrpg
 # All dates must be YYYY-MM-DD format!
