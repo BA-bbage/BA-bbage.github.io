@@ -33,13 +33,13 @@ Eric Raymond, author of “How to Ask Questions the Smart Way”, organized a gu
 	
 ### Matrix Addition – “Stupid” Question
 
-	https://stackoverflow.com/questions/27828922/c-i-couldnt-understand-how-i-can-add-two-matrises
+Link: [Click here](https://stackoverflow.com/questions/27828922/c-i-couldnt-understand-how-i-can-add-two-matrises)
 
 In this example, Eda Kurt asks the community how to perform matrix addition through the C language. The post contained a block of code representing her take on the problem, as well as a message explicitly saying she is a beginner seeking help. Besides the obvious misspelling of the word “matrices”, Kurt’s post has multiple issues that do not follow Raymond’s guidelines. First, Kurt’s post failed to be “precise and informative” as she did not provide any details behind her coding process. As a result, responders lack a basis needed to find the root of her problem. Second, even if Kurt understood the concepts, her post implied that she did not perform any research. One responder, thurizas, had to write detailed explanations on both the concept of matrix addition and the representation of matrices. Third, Kurt failed to “follow up on the solution”. Though her post looks unappealing to answer, community members responded nonetheless with working code. However, no replies from her were made, which reminds the “take without giving back” quote from Raymond’s article.
 	
 ### Matrix Addition – “Smart” Question
 
-	https://stackoverflow.com/questions/29449378/adding-together-matrices-in-c
+Link: [Click here](https://stackoverflow.com/questions/29449378/adding-together-matrices-in-c)
 
 In this example, Thomas Roberts asks a similar question on how to perform matrix addition but through the C++ language. Like Kurt’s post, he provided a block of code representing his take on the problem. However, Roberts’ post also provided a detailed explanation on his problem-solving process, which properly follows much of Raymond’s guidelines. In the beginning of his post, he presented his thought process on matrix addition, which implied to the responder that he at least has an idea on the mathematical concept. In the second half of the post, not only did he forewarn the responder that the code has bugs, pointing out where it occurred, but also mentioned he attempted to look for “other answers” to fix them. This provided the responder two things: a clear view of the problem and assurance that effort was made to research the problem beforehand. After a few responders made their posts, Roberts followed up with his replies, all presenting his understanding to their answers in a professional manner alongside thankful remarks.
 	
