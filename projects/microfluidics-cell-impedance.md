@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/device-channel-and-beads.PNG
+image: images/device-channel-and-beads2.png
 title: Microfluidics - Cell Impedance
 permalink: projects/microfluidics-cell-impedance
 # All dates must be YYYY-MM-DD format!
