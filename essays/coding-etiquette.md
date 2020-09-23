@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Etiquette Coding
+title: Coding Etiquette
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-22
 labels:
