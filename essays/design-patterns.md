@@ -17,3 +17,4 @@ The idea of a 'Design Pattern' can be understood easily by those who view things
 
 ## Examples of Design Patterns in programming
 The 
+d
