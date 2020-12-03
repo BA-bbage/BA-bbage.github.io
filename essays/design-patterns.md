@@ -7,13 +7,13 @@ date: 2020-12-3
 labels:
   - Software Engineering
   - Learning
-  - JavaScript
+  - Object Oriented Programming
 ---
 ## Introduction
-As a young adult maturing in life, I began to percieve things more structurely. Take math functions for example. Back in Freshman high school, most math problems involve plugging in numbers to a formula
+The idea of a 'Design Pattern' can be understood easily by those who view things in life 'structurally'. Take a chair for an example. There are many different kinds of chairs available such as a sofa, a beanie chair, a stool, and a wheelchair. Though all are designed differently, every chair must have a seat for someone to sit on. Even the seat itself can be called a chair as it still provides a place to sit. Without the seat, many would not call it a chair. When it comes to learning design patterns, the main thing to understand is how to create and utilize general repeatable solutions.
 
-## What is a Design Pattern
+## What is a Design Pattern in programming
 
 
-
-## Examples of Design Patterns
+## Examples of Design Patterns in programming
+The 
