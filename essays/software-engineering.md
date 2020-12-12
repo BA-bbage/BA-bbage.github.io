@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Bilingual Programming
+title: Software Engineering
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-03
+date: 2020-12-11
 labels:
   - Software Engineering
   - Learning
-  - JavaScript
 ---
 
 ## Introduction
