@@ -2,17 +2,16 @@
 layout: project
 type: project
 image: images/covid.png
-title: Microfluidics - Cell Impedance
-permalink: projects/microfluidics-cell-impedance
+title: Hawaii Covid Convo
+permalink: projects/hawaii-covid-convo
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-20
 labels:
-  - Electrical_Engineering
-  - COMSOL
-  - MatLab
-  - Impedance
-  - Microfluidics
-summary: A microfluidics project that involves theoretically determining the impedance of a cell with researched values while designing a cheap, portable, and accurate impedance analyzer.
+  - Software Engineering
+  - Web Development
+  - JavaScript
+  - Meteor
+summary: A group project for ICS 314 involving the development of a chat bot that can answer COVID-related questions. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/microfluidic-devices.JPG">
@@ -23,6 +22,4 @@ summary: A microfluidics project that involves theoretically determining the imp
 
 <img class="ui medium right floated rounded image" src="../images/COMSOL-model.jpg">
 
-Source: NA
-
-Status: On-hold (due to COVID-19)
+Status: COMPLETED
