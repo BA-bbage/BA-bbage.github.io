@@ -30,3 +30,8 @@ Another contribution I made for the final project was implementing additional de
 
 
 Status: COMPLETED
+
+Developer's page: [Click Here](https://hi-covid-convo.github.io)
+
+Web application's source code: [Click Here](https://github.com/hi-covid-convo/hi-covid-convo)
+
