@@ -27,7 +27,7 @@ One of my major contributions for the final project was implementing availabilit
 ### Improving Quality of Pages and Components
 Another contribution I made for the final project was implementing additional details to the About page and the Footer. In the about page, I included profile cards for each group member of HI-Covid-Convo's development team. Each card contains a member's profile picture, biography, interests, and GitHub link. In the web application's footer, I added links for each page accessible to any user. One of the links directs a user to the Resources page which was not listed in the header bar.
 
-<img class="ui medium right floated rounded image" src="../images/COMSOL-model.jpg">
+<img class="ui medium right floated rounded image" src="../images/testcafe-chatbot.PNG">
 
 ## Outcomes and Experience
 
