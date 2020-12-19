@@ -11,15 +11,22 @@ labels:
   - Web Development
   - JavaScript
   - Meteor
-summary: A group project for ICS 314 involving the development of a chat bot that can answer COVID-related questions. 
+summary: A group final project for ICS 314 involving the development of a chat bot that can answer COVID-related questions. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/microfluidic-devices.JPG">
 
-  Cell impedance analysis is a powerful tool in biomedical research that can be used to track the growth and development of cells based off of measurement changes in impedance. Such research, for example, includes tracking the change of impedance from of white blood cells CD4+ T-lymphocyte to determine the likelihood of someone infected with the uncurable disease HIV. However, the technology used to measure the impedance is expensive, which poses a challenge to researchers in third-world countries.
+## Contributions
 
-  In this project, we researched experimental data of the polystyrene bead and the cell medium's dimensions, conductivity, and permitivity to derive values for the resistance and capacitance of a cell model given by Maxwell's mixture theory. These values were then modeled through two programs, Matlab and COMSOL, to determine a theoretical value of the cell's impedance. 3-day lab sessions were held on multiple occasions to create microfluidic devices for the bead and medium to flow into. After creating enough devices, we utilized two impedance analyzers, the IM3570 (expensive) and AD5933 (cheap), to experimentally determine the impedance of the cell. These value were then compared with the theoretical impedance and amongst each other to measure any inconsistencies in accuracy.
+### Implementing TestCafe Availability Tests
+One of my major contributions for the final project was implementing availability tests using Node.js's automation tool, "TestCafe". With TestCafe, I was able to test our web application to see whether all pages in the application are displayed for both anonymous and login users. Furthermore, I was able to test whether all survey forms are operational with legal inputs. The code involving all the test processes are located under the tests folder in the app directory of our project.
+
+### Improving Quality of Pages and Components
+Another contribution I made for the final project was implementing additional details to the About page and the Footer. In the about page, I included profile cards for each group member of HI-Covid-Convo's development team. Each card contains a member's profile picture, biography, interests, and GitHub link. In the web application's footer, I added links for each page accessible to any user. One of the links directs a user to the Resources page which was not listed in the header bar.
 
 <img class="ui medium right floated rounded image" src="../images/COMSOL-model.jpg">
+
+## Outcomes and Experience
+
 
 Status: COMPLETED
