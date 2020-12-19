@@ -17,7 +17,7 @@ summary: A group final project for ICS 314 involving the development of a chat b
 # Project Overview
 
 
-<img class="ui medium right floated rounded image" src="../images/microfluidic-devices.JPG">
+<img class="ui medium right floated rounded image" src="../images/chatbot.png">
 
 ## Contributions
 
