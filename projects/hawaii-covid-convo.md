@@ -16,6 +16,7 @@ summary: A group final project for ICS 314 involving the development of a chat b
 
 # Project Overview
 
+Hawaii Covid Convo is a web application that features a chatbot named "Cece" who can answer questions regarding COVID-19 while providing navigation to other informational sites. The web application utilizes both the database program "MongoDB" and Google's Cloud Service, [Dialogflow](https://cloud.google.com/dialogflow/docs) for data management and chatbot functionality. The overall design was implemented using Semantic UI React under the Meteor web framework.
 
 <img class="ui medium right floated rounded image" src="../images/chatbot.png">
 
@@ -31,6 +32,7 @@ Another contribution I made for the final project was implementing additional de
 
 ## Outcomes and Experience
 
+Our final project incorporates all the teachings we learned throughout the Fall 2020 semester of ICS314, such as building visually appealing pages and managing data through a database. Despite complications in the first phase of the project regarding planning and design, we were able to incorporate all the features our application intended to have. We managed our time very wisely and had each member contribute to the best of their ability. Compared to all the other group projects in my entire school life, this project proved to be the best project I had participated. 
 
 Status: COMPLETED
 
