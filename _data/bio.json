@@ -55,7 +55,8 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Common Lisp",
+        "SQL"
       ]
     },
     {
@@ -89,7 +90,8 @@
         "Microelectronic Circuits I",
         "Computational Media Systems",
         "Object-Oriented Software Engineering",
-        "Operating Systems"
+        "Operating Systems",
+        "Databases"
       ]
     }
   ],
