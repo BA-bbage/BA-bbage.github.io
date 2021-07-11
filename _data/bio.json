@@ -72,12 +72,12 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
-      "startDate": "2017-09-01",
-      "endDate": "Present",
-      "gpa": "3.11",
+      "startDate": "2017-08-21",
+      "endDate": "2021-05-15",
+      "gpa": "3.31",
       "courses": [
         "Programming for Engineers",
         "Introduction to Digital Design",
@@ -103,6 +103,18 @@
     {
       "title": "Dean's List",
       "date": "Spring 2020",
+      "awarder": "University of Hawaii - College of Engineering",
+      "summary": "Awarded to undergraduate students who ended the Spring 2020 semester with a GPA of at least 3.5."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2020",
+      "awarder": "University of Hawaii - College of Engineering",
+      "summary": "Awarded to undergraduate students who ended the Spring 2020 semester with a GPA of at least 3.5."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Spring 2021",
       "awarder": "University of Hawaii - College of Engineering",
       "summary": "Awarded to undergraduate students who ended the Spring 2020 semester with a GPA of at least 3.5."
     }
